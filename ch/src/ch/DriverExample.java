@@ -7,10 +7,12 @@ public class DriverExample {
 		
 		Bus bus = new Bus();
 		Taxi taxi = new Taxi();
+		Truck truck = new Truck();
+		
 		
 		driver.drive(bus);
 		driver.drive(taxi);
-
+		driver.drive(truck);
 	}
 
 }
