@@ -3,6 +3,7 @@ package ch08;
 import ch08.RemoteControl;
 
 public class Televi implements  RemoteControl{
+	//ÇÊµå
 	private int volume;
 	
 	public void turnOn() {
